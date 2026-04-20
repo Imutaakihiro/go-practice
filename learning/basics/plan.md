@@ -24,12 +24,15 @@
 - [x] **Loop 1** — Hello World + リテラル + 変数宣言 + 名前 + コメント（+ シャドーイング・カプセル化・init もカバー）
   - ねらい: Goプログラムの見た目・命名規約・Goらしい書き方に慣れる
   - 成果物: `examples/01.go`, `examples/02_introduction.go`
-- [ ] **Loop 2** — 型と変換 + ゼロ値
+- [x] **Loop 2** — 型と変換 + ゼロ値
   - ねらい: Goの型システムの哲学を理解する（暗黙の型変換をしない設計）
-- [ ] **Loop 3** — ポインター
+  - 成果物: `examples/03_bmi.go`
+- [x] **Loop 3** — ポインター
   - ねらい: メモリと参照の感覚を掴む（多くの学習者が詰まる山場）
-- [ ] **Loop 4** — スライス + マップ
+  - 成果物: `examples/04_savings.go`
+- [x] **Loop 4** — スライス + マップ
   - ねらい: コレクション操作（SQLのSELECT/JOINとの類比で理解できる）
+  - 成果物: `examples/05_inventory.go`
 - [ ] **Loop 5** — 制御構文
   - ねらい: if / for / switch のGo流儀に慣れる
 - [ ] **Loop 6** — 関数
