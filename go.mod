@@ -1,3 +1,3 @@
-module github.com/androots/go-practice
+module helloworld
 
 go 1.26.2

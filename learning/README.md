@@ -14,7 +14,7 @@
 | ディレクトリ | テーマ | ステータス |
 |---|---|---|
 | [background/](./background/scrap.md) | Goが生まれた背景・設計思想 | 調査済み |
-| [basics/](./basics/scrap.md) | 基本文法・型・パッケージ | 未着手 |
+| [basics/](./basics/scrap.md) | 基本文法・型・パッケージ（[10ループ計画](./basics/plan.md)） | 進行中 |
 | [lunch-bot/](./lunch-bot/scrap.md) | Slackランチシャッフルbotを作って分解 | 進行中 |
 
 新しいトピックを始めたらここに追記する。
