@@ -40,8 +40,11 @@ func main() {
 	names := []string{"田中", "佐藤", "鈴木", "山田"}
 	scores := []int{85, 72, 45, 95}
 
-	for index, value := range names {
-		fmt.Println("名前:", value)
+	for index, name := range names {
+		score := scores[index]
+		grade := gradeOf(score)
+		comment := commentOf(grade)
+		fmt.Println("名前:", name, "点数:", score, "成績:", grade, "コメント:", comment)
 	}
 
 	// TODO(human): for range を使って names を1人ずつ回し、

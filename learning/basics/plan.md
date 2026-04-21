@@ -33,10 +33,12 @@
 - [x] **Loop 4** — スライス + マップ
   - ねらい: コレクション操作（SQLのSELECT/JOINとの類比で理解できる）
   - 成果物: `examples/05_inventory.go`
-- [ ] **Loop 5** — 制御構文
+- [x] **Loop 5** — 制御構文
   - ねらい: if / for / switch のGo流儀に慣れる
-- [ ] **Loop 6** — 関数
+  - 成果物: `examples/06_grade.go`
+- [x] **Loop 6** — 関数
   - ねらい: 複数戻り値・defer など他言語と異なる設計を体験する
+  - 成果物: `examples/07_stats.go`
 - [ ] **Loop 7** — エラー処理
   - ねらい: Goの哲学が最も色濃く出る部分。例外を持たない理由を体感する
 - [ ] **Loop 8** — 構造体
