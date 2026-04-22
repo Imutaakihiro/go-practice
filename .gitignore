@@ -24,3 +24,6 @@ coverage.out
 
 # 一時ファイル
 .claude/tmp/
+
+# 著作物（購入した書籍のローカルコピー。public repo には載せない）
+O'Reilly *
